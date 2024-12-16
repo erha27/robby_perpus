@@ -16,7 +16,7 @@ class BookSeeder extends Seeder
         Book::create([
             "title" => "Jarkom - Filosofi",
             "author" => "GTA",
-            "year" => 2024,
+            "year" => 2027,
             "publisher" => "UNSUR Mengantuk",
             "city" => "Cianjir",
             "cover" => "public/cover.jpg",
